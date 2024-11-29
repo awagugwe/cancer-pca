@@ -96,22 +96,7 @@ If implemented, the results include:
 2. Detailed classification report
 3. Performance metrics
 
-## Contributing
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Scikit-learn for providing the breast cancer dataset
 - Anderson Cancer Center for the project requirements
 
-## Contact
-For questions or feedback, please open an issue in the GitHub repository.
-
----
-*Note: This project is part of the Anderson Cancer Center data analysis initiative.*
